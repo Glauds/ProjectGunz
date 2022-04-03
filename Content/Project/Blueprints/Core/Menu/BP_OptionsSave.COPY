@@ -1,0 +1,25 @@
+Begin Object Class=/Script/Engine.Blueprint Name="BP_OptionsSave"
+   Begin Object Class=/Script/Engine.EdGraph Name="EventGraph"
+   End Object
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfo Name="SceneThumbnailInfo_0"
+   End Object
+   Begin Object Name="EventGraph"
+      Schema=Class'"/Script/BlueprintGraph.EdGraphSchema_K2"'
+      bAllowDeletion=False
+      GraphGuid=D7008FE1483D90D7E3F9F0889BA58E4B
+   End Object
+   Begin Object Name="SceneThumbnailInfo_0"
+   End Object
+   ParentClass=Class'"/Script/Engine.SaveGame"'
+   BlueprintSystemVersion=2
+   UbergraphPages(0)=EdGraph'"EventGraph"'
+   NewVariables(0)=(VarName="GraphicLevel",VarGuid=6E141571401A7366FB3D9DB8DA3F4972,VarType=(PinCategory="int"),FriendlyName="Graphic Level",Category=NSLOCTEXT("KismetSchema", "Default", "Default"),PropertyFlags=65541,MetaDataArray=((DataKey="MultiLine",DataValue="true")))
+   NewVariables(1)=(VarName="EffectsVolume",VarGuid=A0F74E9D4D0D4730F29C57B984D49372,VarType=(PinCategory="float"),FriendlyName="Effects Volume",Category=NSLOCTEXT("KismetSchema", "Default", "Default"),PropertyFlags=65541,MetaDataArray=((DataKey="MultiLine",DataValue="true")))
+   NewVariables(2)=(VarName="MusicVolume",VarGuid=A0C318C6499ABF2BECE5D6986F495EAB,VarType=(PinCategory="float"),FriendlyName="Music Volume",Category=NSLOCTEXT("KismetSchema", "Default", "Default"),PropertyFlags=65541,MetaDataArray=((DataKey="MultiLine",DataValue="true")))
+   CategorySorting(0)="Default"
+   LastEditedDocuments(0)=(EditedObjectPath=/Game/Blueprints/Core/Menu/BP_OptionsSave.BP_OptionsSave:EventGraph,SavedViewOffset=(X=-61.000000,Y=-232.000000),SavedZoomAmount=1.000000)
+   ThumbnailInfo=SceneThumbnailInfo'"SceneThumbnailInfo_0"'
+   GeneratedClass=BlueprintGeneratedClass'"BP_OptionsSave_C"'
+   bLegacyNeedToPurgeSkelRefs=False
+   BlueprintGuid=ABDC692B4622EF042FA4E38194C41E0F
+End Object
